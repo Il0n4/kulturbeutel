@@ -1,0 +1,8 @@
+---
+title: Rom nach Coriolan, Julius Cäsar und Antonius und Cleopatra von William Shakespeare
+categories: [theater]
+---
+
+
+Deutsches Theater Berlin 2018/2019
+https://www.deutschestheater.de/programm/a-z/rom/#
