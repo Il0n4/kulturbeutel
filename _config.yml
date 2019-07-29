@@ -1,38 +1,37 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: ilona.stuetz@ufg.at
 baseurl: "/kulturbeutel"
 permalink: /:year/:month/:day/:title/
-google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Ilona Stuetz
+title: Kulturbeutel-Sammlung gelesener Bücher und gesehener Theaterstücke
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Sammlung gelesener Bücher und gesehener Theaterstücke
+url: https://il0n4.github.io/kulturbeutel
+twitter_username: ilo_ul
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/ilo_ul
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/il0n4
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: illustworkspace.wordpress.com
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+#contact_img: /assets/images/placeholder-28.jpg
+#formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+#disqus: test-apkdzgmqhj
 
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
-
+  - name: Ilona Stuetz
+    bio: Ilona Stuetz lebt in Berlin. Hier arbeitet sie als Medienpädagogin unter anderem für Jugend hackt. Sie interessiert sich für Technik und Design. Vor allem aber, wie und ob sich Technik und Design an den Anwender*innen orientiert. Ausserdem geht sie sehr häufig ins Theater.
+    url: https://il0n4.github.io/kulturbeutel/
+    
 # Pagination settings
 pagination:
   enabled: true
